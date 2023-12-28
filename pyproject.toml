@@ -20,7 +20,7 @@ tenacity = "^8.2.0"
 tiktoken = "^0.4.0"
 pycryptodome = "^3.18.0"
 pymupdf = "^1.22.5"
-transformers = "^4.33.1"
+transformers = "^4.36.0"
 python-dotenv = "^0.21.1"
 
 
